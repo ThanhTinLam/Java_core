@@ -1,3 +1,8 @@
-**java_core**
+## Project Name<: 
+* java_Core
 
-> Text that is a quote
+## Description: 
+* this project will use to practise java core and practice git flow
+
+## Date start: 
+Aug 10, 2022
