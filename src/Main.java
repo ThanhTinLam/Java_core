@@ -8,7 +8,7 @@ public class Main {
         Assignment.checkStudentCode();
         Assignment.sumInteger();
         Assignment.mutiplyInteger();
-        Assignment.primeNumber();*/
-        Assignment.Fabonacci();
+        Assignment.primeNumber();
+        Assignment.Fabonacci();*/
     }
 }
