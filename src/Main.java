@@ -10,5 +10,6 @@ public class Main {
         Assignment.mutiplyInteger();
         Assignment.primeNumber();
         Assignment.Fabonacci();*/
+        Feature1.maxArray();
     }
 }
