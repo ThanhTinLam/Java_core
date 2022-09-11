@@ -10,6 +10,8 @@ public class Main {
         Assignment.mutiplyInteger();
         Assignment.primeNumber();
         Assignment.Fabonacci();*/
-        Feature1.minArray();
+        // Feature1.minArray();
+        Feature2.maxArray();
+        Feature2ver2.maxArray2();
     }
 }
