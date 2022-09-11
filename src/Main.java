@@ -9,9 +9,11 @@ public class Main {
         Assignment.sumInteger();
         Assignment.mutiplyInteger();
         Assignment.primeNumber();
-        Assignment.Fabonacci();*/
-        // Feature1.minArray();
+        Assignment.Fabonacci();
+        Assignment.Fabonacci();
+        Feature1.minArray();
         Feature2.maxArray();
-        Feature2ver2.maxArray2();
+        Feature2ver2.maxArray2();*/
+        Sum.sumArray();
     }
 }
