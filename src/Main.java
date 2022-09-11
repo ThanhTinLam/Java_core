@@ -15,5 +15,6 @@ public class Main {
         Feature2ver2.maxArray2();
         Sum.sumArray();
         Findvalue.findValue();*/
+        Evennumber.evenNumber();
     }
 }
