@@ -10,7 +10,10 @@ public class Main {
         Assignment.mutiplyInteger();
         Assignment.primeNumber();
         Assignment.Fabonacci();
-        Feature1.maxArray();*/
+        Feature1.minArray();
+        Feature2.maxArray();
+        Feature2ver2.maxArray2();
+        Sum.sumArray();
         Findvalue.findValue();
     }
 }

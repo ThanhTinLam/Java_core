@@ -1,5 +1,5 @@
 public class Feature1 {
-    static void maxArray() {
+    static void minArray() {
         int min;
         int number[] = new int[]{3, 5, 7, 8, 23, 34, 54, 23};
         min = number[0];
