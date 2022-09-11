@@ -14,7 +14,8 @@ public class Main {
         Feature2.maxArray();
         Feature2ver2.maxArray2();
         Sum.sumArray();
-        Findvalue.findValue();*/
-        Evennumber.evenNumber();
+        Findvalue.findValue();
+        Evennumber.evenNumber();*/
+        Sumeven.sumEven();
     }
 }
