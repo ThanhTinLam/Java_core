@@ -14,6 +14,6 @@ public class Main {
         Feature2.maxArray();
         Feature2ver2.maxArray2();
         Sum.sumArray();
-        Findvalue.findValue();
+        Findvalue.findValue();*/
     }
 }
